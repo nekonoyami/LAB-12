@@ -1,0 +1,41 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    background-image: url(../images/ArduinoCommunityLogo.png);
+}
+
+form {
+    background-color: #CBD2D0;
+    border-radius: 15px;
+    padding-bottom: 60px;
+}
+
+a {
+    color: #00B7FF;
+}
+
+#palabra {
+    left: 20%;
+}
+
+#boton {
+    left: 21%;
+}
+
+h1 {
+    background-color: #CBD2D0;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+h1, form{
+    box-shadow: 10px 15px 12px rgba(0, 0, 0, .6);
+    text-shadow: 20px 7px 10px rgba(7, 12, 45, 1);
+}
+
+label,
+h1,
+h3,
+p {
+    text-align: center;
+}
